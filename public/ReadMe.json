@@ -1,0 +1,5 @@
+{
+    "id": 1,
+    "title": "欢迎使用MarkdPro",
+    "data": "# 欢迎使用MarkdownPro\n\n-  **MarkdownPro**是一款轻量级的Markdown编辑器，它可以让用户快速便捷地编辑出一份格式整洁且美观的文章。\n\n-------------------\n\n\n## Markdown简介\n\n> Markdown 是一种轻量级标记语言，它允许人们使用易读易写的纯文本格式编写文档，然后转换成格式丰富的HTML页面。—— [维基百科](https://zh.wikipedia.org/wiki/Markdown)\n\n正如您在阅读的这份文档，它使用简单的符号标识不同的标题，将某些文字标记为**粗体**或者*斜体*，创建一个[链接](http://www.example.com)，下面列举了几个高级功能。 \n\n### 代码块\n\n```javascript\nfunction getLove(){\n    let love=0;\n    while (life < end) {\n        love++;\n    };\n    return love;\n}\ngetLove();\n``` \n### 表格\n| h1      |    h2 | h3  |\n| :-------- | :-------:| -----: |\n| item1  | xiao lv |  20   |\n| item2     |   xiao hong |  12  |\n| item3      |    xiao huang | 22  |\n\n\n\n\n### 复选框\n\n使用 - [ ] 和 - [x] 语法可以创建复选框，实现 todo-list 等功能。例如：\n\n- [x] 已完成事项\n- [ ] 待办事项1\n- [ ] 待办事项2\n\n## MarkdownPro简介\n\n### 文本按钮\n> 文本按钮提供先选取文本内容再设置文本样式和先设置文本样式再输入文本内容两种选择。\n\n- 设置文本内容的样式\n\n### 功能按钮\n-  分屏：默认的预览模式，左屏为编辑区，右屏为显示区。\n-  预览：全屏显示区。\n-  编辑：全屏编辑区。\n-  主题：设置编辑区的显示样式。\n-  同步滚动：默认开启，即左右屏会同步滚动。\n-  性能模式：默认关闭，开启后左右屏不会同步渲染，但是编辑器性能会有所提高。\n\n### 其它\n-  目录：默认关闭，开启文章目录。\n-  帮助：提供markdown语法和编辑器的相关说明。\n"
+}
